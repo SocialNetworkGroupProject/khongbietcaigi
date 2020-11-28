@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1044151886459",
+    "firebase_url": "https://ahihi-be199.firebaseio.com",
+    "project_id": "ahihi-be199",
+    "storage_bucket": "ahihi-be199.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044151886459:android:975c5d90098d9dd93ef8de",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044151886459-6c4ah2kdkggckbd2ipnu3i4c1aojt8st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATcEiS4wyGx1HKksYreLVAfwgG78K8_8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044151886459-6c4ah2kdkggckbd2ipnu3i4c1aojt8st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
